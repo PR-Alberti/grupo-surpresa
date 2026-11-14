@@ -2,7 +2,7 @@
 
 Tradução para o português de três partes do [Visualization Curriculum](https://github.com/uwdata/visualization-curriculum), o curso de visualização de dados com [Altair](https://altair-viz.github.io/) e [Vega-Lite](https://vega.github.io/vega-lite/) da Universidade de Washington.
 
-Trabalho em grupo de alunos do IMPA Tech, feito em fevereiro de 2025.
+Trabalho em grupo da disciplina CB32 – Introdução à Ciência de Dados do IMPA Tech, período 2024.3, feito em fevereiro de 2025.
 
 ## Conteúdo
 
