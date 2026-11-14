@@ -1,9 +1,6 @@
 # Currículo de Visualização de Dados — tradução para o português
 
 Tradução para o português de três partes do [Visualization Curriculum](https://github.com/uwdata/visualization-curriculum), o curso de visualização de dados com [Altair](https://altair-viz.github.io/) e [Vega-Lite](https://vega.github.io/vega-lite/) da Universidade de Washington.
-
-Trabalho em grupo da disciplina CB32 – Introdução à Ciência de Dados do IMPA Tech, período 2024.3, feito em fevereiro de 2025.
-
 ## Conteúdo
 
 | Notebook | Capítulo do original | Assunto |
@@ -27,10 +24,11 @@ pip install altair vega_datasets jupyterlab
 jupyter lab
 ```
 
-## Grupo
+## Contexto
 
-Armando, Eliani, Giovanni, Lucas Barbosa, Pedro Miguel, Pedro Rodrigues, Tainá Drumond, Thiago Vinicius, Tomaz e Vinicius Prestes.
+- **Disciplina:** CB32 – Introdução à Ciência de Dados, IMPA Tech, período 2024.3
+- **Autoria:** Armando, Eliani, Giovanni, Lucas Barbosa, Pedro Miguel, Pedro Rodrigues, Tainá Drumond, Thiago Vinicius, Tomaz e Vinicius Prestes
 
-## Créditos e licença
+## Créditos
 
 O material original foi desenvolvido na Universidade de Washington por Jeffrey Heer, Dominik Moritz, Jake VanderPlas e Brock Craft, e é distribuído sob a licença [BSD 3-Clause](https://github.com/uwdata/visualization-curriculum/blob/master/LICENSE). Esta tradução é uma obra derivada e mantém os créditos e a licença do original.
