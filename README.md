@@ -27,6 +27,7 @@ jupyter lab
 ## Contexto
 
 - **Disciplina:** CB32 – Introdução à Ciência de Dados, IMPA Tech, período 2024.3
+- **Professora:** Asla Medeiros e Sá
 - **Autoria:** Armando, Eliani, Giovanni, Lucas Barbosa, Pedro Miguel, Pedro Rodrigues, Tainá Drumond, Thiago Vinicius, Tomaz e Vinicius Prestes
 
 ## Créditos
